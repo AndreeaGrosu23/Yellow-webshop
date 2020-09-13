@@ -1,8 +1,6 @@
+# Educational team project
+
 # Codecool Online Shop
 
-Java SE: Web Project skeleton
+The goal is to build an Online Shop, an online eCommerce web-application with Java, where users can register, login and logout, browse products, add them into a shopping cart, checkout items and make payments. We implemented a PostgreSql database using JDBC and we used Bootstrap and Thymeleaf for the front-end part of the project.
 
-# Install
-
-Import this project to IntelliJ as a Maven project.
-IntelliJ can auto-install the dependencies based on the pom.xml
